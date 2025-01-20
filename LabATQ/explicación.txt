@@ -1,0 +1,9 @@
+Para el laboratorio ATQ 
+Se agregó una variable nueva llamada "sma"
+Simple Moving Average (SMA):Calcula el promedio de los precios de cierre en un período de 30 días (puedes ajustar este valor).
+
+Las 20 Assets que se agregaron fueron:
+["NAS:AAPL","NAS:AMZN","NAS:AAL","NAS:ABNB","NAS:ACGL","NAS:ADBE","NAS:ADI","NAS:ADP","NAS:ADSK","NAS:AEP","NAS:AKAM","NAS:ALGN","NAS:AMAT","NAS:AMD","NAS:AMGN","NAS:ANSS","NAS:APA","NAS:AVGO","NAS:AXON","NAS:BIIB"]
+
+El nuevo modelo de aprendizaje fue por medio de "SVR"
+La regresión de vectores de soporte es una extensión de SVM(Support Vector Regression) que introduce una región, denominada tubo, alrededor de la función que se va a optimizar con el objetivo de encontrar el tubo que mejor se aproxime a la función de valor continuo, mientras se minimiza el error de predicción, 
